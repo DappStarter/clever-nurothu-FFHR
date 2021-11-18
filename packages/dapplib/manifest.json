@@ -1,0 +1,16 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "file_storage",
+            "name": "core-sia",
+            "parameters": {
+                "mode": "multiple"
+            }
+        }
+    ],
+    "blockchain": "avalanche",
+    "language": "solidity",
+    "framework": "vanilla"
+}
